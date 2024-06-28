@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Ping GAO homepage"
 description              : ""
-repository               : ""
+repository               : "PingCGMD/PingCGMD.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -29,7 +29,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=9DGrp64AAAAJ"
   email            : "gao_ping_@outlook.com"
-  researchgate     : "https://www.researchgate.net/profile/Ping-Gao-27"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "PingCGMD"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :

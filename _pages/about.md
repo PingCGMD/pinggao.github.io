@@ -53,7 +53,7 @@ I have published around 7 papers at the top international journals with total 10
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Chem. Theory Comput., 2021</div><img src='images/jctc.gif' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Chem. Theory Comput., 2021</div><img src='images/jctc.gif' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Simulations of the Upper Critical Solution Temperature Behavior of Poly(ornithine-co-citrulline)s Using MARTINI-Based Coarse-Grained Force Fields.](https://pubs.acs.org/doi/10.1021/jacs.1c05332)\\
@@ -71,7 +71,7 @@ Ning Liu, **Ping Gao**, Hai-Yan Lu, Lei Fang, Julien Nicolas, Tâp Ha-Duong*, Ji
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Mater. Chem. C, 2018</div><img src='images/jmcc.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Mater. Chem. C, 2018</div><img src='images/jmcc.jpg' alt="sym" width="105%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Cu MOF-based catalytic sensing for formaldehyde.](https://pubs.rsc.org/en/content/articlelanding/2018/tc/c8tc01703d)\\

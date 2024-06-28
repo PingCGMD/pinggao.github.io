@@ -22,7 +22,7 @@ Welcome to my homepage!
 I got my Ph.D at [Université Paris-Saclay, Faculté de Pharmacie](https://www.pharmacie.universite-paris-saclay.fr/).
 
 My research interest includes polymer drug delivery design and molecular dynamic simulations. 
-I have published around 7 papers at the top international journals with total 100+ google scholar citations.(Click on [google scholar badge](https://scholar.google.com/citations?user=SCHOLAR_ID&user=9DGrp64AAAAJ) and you will get more details).
+I have published around 7 papers at the top international journals with total 100+ google scholar citations. (Click on [google scholar badge](https://scholar.google.com/citations?user=SCHOLAR_ID&user=9DGrp64AAAAJ) and you will get more details.)
 
 
 # 🔥 News

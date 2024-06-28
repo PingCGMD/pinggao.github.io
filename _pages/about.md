@@ -22,7 +22,7 @@ Welcome to my homepage!
 I got my Ph.D at [Université Paris-Saclay, Faculté de Pharmacie](https://www.pharmacie.universite-paris-saclay.fr/).
 
 My research interest includes polymer drug delivery design and molecular dynamic simulations. 
-I have published around 7 papers at the top international journals with total 100+ google scholar citations. (Click on [google scholar badge](https://scholar.google.com/citations?user=SCHOLAR_ID&user=9DGrp64AAAAJ) and you will get more details.)
+I have published around 7 papers at the top international journals with total 100+ google scholar citations. (Click on [google scholar](https://scholar.google.com/citations?user=SCHOLAR_ID&user=9DGrp64AAAAJ) and you will get more details.)
 
 
 # 🔥 News
@@ -31,12 +31,19 @@ I have published around 7 papers at the top international journals with total 10
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/jacs.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Angew. Chem. Int. Ed., 2024</div><img src='images/angew.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Coarse-Grained Model-Assisted Design of Polymer Prodrug Nanoparticles with Enhanced Cytotoxicity: A Combined Theoretical and Experimental Study](https://onlinelibrary.wiley.com/doi/full/10.1002/anie.202316056)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Ping GAO**, Tâp Ha-Duong*, Julien Nicolas*
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Am. Chem. Soc., 2021</div><img src='images/jacs.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Supramolecular Organization of Polymer Prodrug Nanoparticles Revealed by Coarse-Grained Simulations](https://pubs.acs.org/doi/10.1021/jacs.1c05332)
+
+**Ping GAO**, Julien Nicolas*, Tâp Ha-Duong*
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='9DGrp64AAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

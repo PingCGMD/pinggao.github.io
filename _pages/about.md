@@ -20,7 +20,7 @@ redirect_from:
 Welcome to my homepage!
 
 I got my Ph.D at [Université Paris-Saclay, Faculté de Pharmacie](https://www.pharmacie.universite-paris-saclay.fr/).\\
-My research interest includes polymer drug delivery system and molecular dynamic simulations. 
+My research interest includes polymer drug delivery system and molecular dynamic simulations. \\
 I have published around 7 papers <a href='https://scholar.google.com/citations?user=9DGrp64AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://cdn.jsdelivr.net/gh/PingCGMD/PingCGMD.github.io@google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international journals.
 
 

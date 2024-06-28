@@ -30,7 +30,7 @@ I have published around 7 papers at the top international journals with total 10
 - *2024.07*: &nbsp;🎉🎉 
 
 
-# 🔥 Project
+# 🔥 Projects
 - Molecular modeling and characterization of polymer prodrug self-assemblies.
 - MD simulation-assisted design of polymer prodrug nanocarriers.
 

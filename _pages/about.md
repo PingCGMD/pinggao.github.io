@@ -24,8 +24,7 @@ I have published around 7 papers at the top international journals with total 10
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2024.07*: &nbsp;🎉🎉 
 
 
 # 🔥 Project
@@ -68,15 +67,15 @@ Anne-Elisabeth Molza, **Ping Gao**, Justine Jakpou, Julien Nicolas, Nicolas Tsap
 [Polyfluoroalkyl Chain-Based Assemblies for Biomimetic Catalysis.](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.202302669)\\
 Ning Liu, **Ping Gao**, Hai-Yan Lu, Lei Fang, Julien Nicolas, Tâp Ha-Duong<sup>\*</sup>, Jiang-Shan Shen<sup>\*</sup>
 </div>
+</div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Mater. Chem. C, 2018</div><img src='images/jmcc.jpg' alt="sym" width="105%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Mater. Chem. C, 2018</div><img src='images/jmcc.jpg' alt="sym" width="110%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Cu MOF-based catalytic sensing for formaldehyde.](https://pubs.rsc.org/en/content/articlelanding/2018/tc/c8tc01703d)\\
 **Ping GAO**, Xiang-Ying Sun, Bin Liu, Hui-Ting Lian, Xin-Qiang Liu, Jiang-Shan Shen<sup>\*</sup>
 </div>
-
+</div>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

@@ -39,7 +39,7 @@ I have published around 7 papers at the top international journals with total 10
 <div class='paper-box-text' markdown="1">
 
 [Coarse-Grained Model-Assisted Design of Polymer Prodrug Nanoparticles with Enhanced Cytotoxicity: A Combined Theoretical and Experimental Study.](https://onlinelibrary.wiley.com/doi/full/10.1002/anie.202316056)\\
-**Ping GAO**, Tâp Ha-Duong**, Julien Nicolas**
+**Ping GAO**, Tâp Ha-Duong<sup>\*</sup>, Julien Nicolas<sup>\*</sup>
 </div>
 </div>
 
@@ -48,7 +48,7 @@ I have published around 7 papers at the top international journals with total 10
 <div class='paper-box-text' markdown="1">
 
 [Supramolecular Organization of Polymer Prodrug Nanoparticles Revealed by Coarse-Grained Simulations.](https://pubs.acs.org/doi/10.1021/jacs.1c05332)\\
-**Ping GAO**, Julien Nicolas*, Tâp Ha-Duong*
+**Ping GAO**, Julien Nicolas<sup>\*</sup>, Tâp Ha-Duong<sup>\*</sup>
 </div>
 </div>
 
@@ -57,7 +57,7 @@ I have published around 7 papers at the top international journals with total 10
 <div class='paper-box-text' markdown="1">
 
 [Simulations of the Upper Critical Solution Temperature Behavior of Poly(ornithine-co-citrulline)s Using MARTINI-Based Coarse-Grained Force Fields.](https://pubs.acs.org/doi/10.1021/jacs.1c05332)\\
-Anne-Elisabeth Molza, **Ping Gao**, Justine Jakpou, Julien Nicolas, *Nicolas Tsapis*, and *Tâp Ha-Duong**
+Anne-Elisabeth Molza, **Ping Gao**, Justine Jakpou, Julien Nicolas, Nicolas Tsapis<sup>\*</sup>, Tâp Ha-Duong<sup>\*</sup>
 </div>
 </div>
 
@@ -66,8 +66,7 @@ Anne-Elisabeth Molza, **Ping Gao**, Justine Jakpou, Julien Nicolas, *Nicolas Tsa
 <div class='paper-box-text' markdown="1">
 
 [Polyfluoroalkyl Chain-Based Assemblies for Biomimetic Catalysis.](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.202302669)\\
-Ning Liu, **Ping Gao**, Hai-Yan Lu, Lei Fang, Julien Nicolas, Tâp Ha-Duong*, Jiang-Shan Shen*
-</div>
+Ning Liu, **Ping Gao**, Hai-Yan Lu, Lei Fang, Julien Nicolas, Tâp Ha-Duong<sup>\*</sup>, Jiang-Shan Shen<sup>\*</sup>
 </div>
 
 
@@ -75,8 +74,7 @@ Ning Liu, **Ping Gao**, Hai-Yan Lu, Lei Fang, Julien Nicolas, Tâp Ha-Duong*, Ji
 <div class='paper-box-text' markdown="1">
 
 [Cu MOF-based catalytic sensing for formaldehyde.](https://pubs.rsc.org/en/content/articlelanding/2018/tc/c8tc01703d)\\
-**Ping GAO**, Xiang-Ying Sun, Bin Liu, Hui-Ting Lian, Xin-Qiang Liu, Jiang-Shan Shen
-</div>
+**Ping GAO**, Xiang-Ying Sun, Bin Liu, Hui-Ting Lian, Xin-Qiang Liu, Jiang-Shan Shen<sup>\*</sup>
 </div>
 
 

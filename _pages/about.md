@@ -31,7 +31,7 @@ I have published around 7 papers at the top international journals with total 10
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Angew. Chem. Int. Ed., 2024</div><img src='images/angew.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Angew. Chem. Int. Ed., 2024</div><img src='images/angew.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Coarse-Grained Model-Assisted Design of Polymer Prodrug Nanoparticles with Enhanced Cytotoxicity: A Combined Theoretical and Experimental Study](https://onlinelibrary.wiley.com/doi/full/10.1002/anie.202316056)

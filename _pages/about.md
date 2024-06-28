@@ -34,7 +34,7 @@ I have published around 7 papers at the top international journals with total 10
 
 # 📝 Representative Publications 
 
-For more publications, please visit [scholar.google](https://scholar.google.com/citations?user=SCHOLAR_ID&user=9DGrp64AAAAJ)![image](<img src='https://github.com/PingCGMD/PingCGMD.github.io/assets/118598368/d0b5d24f-3047-4256-876a-9972b87458ae' alt="sym" width="100%">)
+For more publications, please visit [scholar.google](https://scholar.google.com/citations?user=SCHOLAR_ID&user=9DGrp64AAAAJ).
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Angew. Chem. Int. Ed., 2024</div><img src='images/angew.jpg' alt="sym" width="100%"></div></div>

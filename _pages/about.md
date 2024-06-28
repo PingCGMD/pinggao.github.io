@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-<span class='show_paper_citations' data='9DGrp64AAAAJ:ALROH1vI_8AC'></span>
+<span class='show_paper_citations' data='9DGrp64AAAAJ'></span>
 
 Welcome to my homepage!\\
 I got my Ph.D at [Université Paris-Saclay, Faculté de Pharmacie](https://www.pharmacie.universite-paris-saclay.fr/).\\

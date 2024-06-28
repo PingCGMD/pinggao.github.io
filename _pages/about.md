@@ -37,6 +37,9 @@ I have published around 7 papers at the top international journals with total 10
 [Coarse-Grained Model-Assisted Design of Polymer Prodrug Nanoparticles with Enhanced Cytotoxicity: A Combined Theoretical and Experimental Study](https://onlinelibrary.wiley.com/doi/full/10.1002/anie.202316056)
 
 **Ping GAO**, Tâp Ha-Duong*, Julien Nicolas*
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Am. Chem. Soc., 2021</div><img src='images/jacs.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

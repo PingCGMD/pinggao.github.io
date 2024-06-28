@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to my homepage!\\
+Welcome to my homepage!
 
 I got my Ph.D at [Université Paris-Saclay, Faculté de Pharmacie](https://www.pharmacie.universite-paris-saclay.fr/).\\
 My research interest includes polymer drug delivery system and molecular dynamic simulations. 

@@ -77,8 +77,11 @@ Ning Liu, **Ping Gao**, Hai-Yan Lu, Lei Fang, Julien Nicolas, Tâp Ha-Duong<sup>
 </div>
 </div>
 
+For more publications, please visit [scholar.google]![image](https://github.com/PingCGMD/PingCGMD.github.io/assets/118598368/2e8ad7c8-4f72-4606-ba6a-33c69cf069f5)(https://scholar.google.com/citations?user=SCHOLAR_ID&user=9DGrp64AAAAJ)
+
+
 # 🎖 Honors and Awards
-- *2018.9* Best Poster Award at the 5th National Academic Conference on Atomic Spectroscopy and Related Techniques, Springer
+- *2018.09* Best Poster Award at the 5th National Academic Conference on Atomic Spectroscopy and Related Techniques, Springer
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations

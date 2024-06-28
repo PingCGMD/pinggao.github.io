@@ -21,9 +21,7 @@ Welcome to my homepage!\\
 
 I got my Ph.D at [Université Paris-Saclay, Faculté de Pharmacie](https://www.pharmacie.universite-paris-saclay.fr/).\\
 My research interest includes polymer drug delivery system and molecular dynamic simulations. 
-I have published around 7 papers at the top international journals with total 100+ google scholar citations. (Click on [google scholar](https://scholar.google.com/citations?user=SCHOLAR_ID&user=9DGrp64AAAAJ) and you will get more details.)
-
-<a href='https://scholar.google.com/citations?user=9DGrp64AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://cdn.jsdelivr.net/gh/PingCGMD/PingCGMD.github.io@google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+I have published around 7 papers <a href='https://scholar.google.com/citations?user=9DGrp64AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://cdn.jsdelivr.net/gh/PingCGMD/PingCGMD.github.io@google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international journals.
 
 
 # 🔥 News
@@ -37,7 +35,7 @@ I have published around 7 papers at the top international journals with total 10
 
 # 📝 Representative Publications 
 
-For more publications, please visit [scholar google](https://scholar.google.com/citations?user=SCHOLAR_ID&user=9DGrp64AAAAJ).
+For more publications, please visit [Scholar Google](https://scholar.google.com/citations?user=SCHOLAR_ID&user=9DGrp64AAAAJ).
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Angew. Chem. Int. Ed., 2024</div><img src='images/angew.jpg' alt="sym" width="100%"></div></div>

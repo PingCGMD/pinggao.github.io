@@ -32,7 +32,10 @@ I have published around 7 papers at the top international journals with total 10
 - MD simulation-assisted design of polymer prodrug nanocarriers.
 
 
-# 📝 Publications 
+# 📝 Representative Publications 
+
+For more publications, please visit [scholar.google](https://scholar.google.com/citations?user=SCHOLAR_ID&user=9DGrp64AAAAJ)![image](<img src='https://github.com/PingCGMD/PingCGMD.github.io/assets/118598368/d0b5d24f-3047-4256-876a-9972b87458ae' alt="sym" width="100%">)
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Angew. Chem. Int. Ed., 2024</div><img src='images/angew.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -76,8 +79,6 @@ Ning Liu, **Ping Gao**, Hai-Yan Lu, Lei Fang, Julien Nicolas, Tâp Ha-Duong<sup>
 **Ping Gao**, Xiang-Ying Sun, Bin Liu, Hui-Ting Lian, Xin-Qiang Liu, Jiang-Shan Shen<sup>\*</sup>
 </div>
 </div>
-
-For more publications, please visit [scholar.google]![image](https://github.com/PingCGMD/PingCGMD.github.io/assets/118598368/2e8ad7c8-4f72-4606-ba6a-33c69cf069f5)(https://scholar.google.com/citations?user=SCHOLAR_ID&user=9DGrp64AAAAJ)
 
 
 # 🎖 Honors and Awards

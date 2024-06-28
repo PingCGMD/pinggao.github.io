@@ -27,7 +27,7 @@ I have published around 7 papers at the top international journals with total 10
 
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 
+- *2024.07*: &nbsp;🎉🎉
 
 
 # 🔥 Projects

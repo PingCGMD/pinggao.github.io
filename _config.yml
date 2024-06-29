@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Ping GAO homepage"
 description              : ""
-repository               : "ping.github.io"
+repository               : "PingCGMD/pingcgmd.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics

@@ -83,8 +83,9 @@ Ning Liu, **Ping Gao**, Hai-Yan Lu, Lei Fang, Julien Nicolas, Tâp Ha-Duong<sup>
 
 
 # 🎖 Honors and Awards
-- *2018.09* Best Poster Award at the 5th National Academic Conference on Atomic Spectroscopy and Related Techniques, Springer
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2018.09* Best Poster Award at the 5th National Academic Conference on Atomic Spectroscopy and Related Techniques, Springer.
+- *2019.05* National Scholarship, China.
+- *2019.06* Outstanding graduate, Huaqiao University.
 
 # 📖 Educations
 - *2019.09 - 2023.10*, PhD in Pharmacotechnie et biopharmacie, Faculté de Pharmacie, Université Paris-Saclay, Paris, France. 
@@ -98,3 +99,4 @@ Ning Liu, **Ping Gao**, Hai-Yan Lu, Lei Fang, Julien Nicolas, Tâp Ha-Duong<sup>
 
 # 💻 Academic Communication
 - *2021.07*, ULLA summer school, Uppsala universiy, Sweden.
+- *2022.10*, JED - Journée de l'Ecole Doctorale, Université Paris-Saclay, France.

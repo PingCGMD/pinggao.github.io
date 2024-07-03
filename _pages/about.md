@@ -28,7 +28,7 @@ I have published around 7 papers <a href='https://scholar.google.com/citations?u
 - *2024.07*: &nbsp;🎉🎉
 
 
-# 🔥 Projects
+# 📚 Projects
 - Molecular modeling and characterization of polymer prodrug self-assemblies.
 - MD simulation-assisted design of polymer prodrug nanocarriers.
 

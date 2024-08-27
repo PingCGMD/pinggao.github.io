@@ -8,18 +8,15 @@ main:
 
   - title: "Projects"
     url: "/#-projects"
+
+  - title: "Educations"
+    url: "/#-educations"
     
   - title: "Representative Publications"
     url: "/#-representative-publications"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
-
-  - title: "Educations"
-    url: "/#-educations"
-
-  - title: "Oral Presentations"
-    url: "/#-oral-presentations"
 
   - title: "Academic Communication"
     url: "/#-academic-communication"

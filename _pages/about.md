@@ -25,7 +25,7 @@ I have published around 7 papers <a href='https://scholar.google.com/citations?u
 
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉
+- *2024.08*: &nbsp;🎉🎉Delighted to be awarded the National Natural Science Foundation of China-Young Science Fund Project
 
 
 # 📚 Projects

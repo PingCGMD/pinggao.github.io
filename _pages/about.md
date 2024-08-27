@@ -93,9 +93,8 @@ Ning Liu, **Ping Gao**, Hai-Yan Lu, Lei Fang, Julien Nicolas, Tâp Ha-Duong<sup>
 
 
 # 💻 Academic Communication
-- *2022.12*, Supramolecular organization of polymer prodrug nanoparticles revealed by coarse-grained simulations, SFnano2022 – Nanomedicine annual meeting, Strasbourg, France. (Oral Presentations)
-- *2023.05*, Coarse-grained simulations: insight into supramolecular organization of polymer prodrugs and thermo-responsive polymers for drug encapsulation, GGMM2023, Toulouse, France. (Oral Presentations)
 - *2024.05*, Coarse-grained simulation: insight into the supramolecular organisation of polymer nanoparticles for drug encapsulation, Zhejiang soft matter and complex systems symposium 2024, Hangzhou, China. (Oral Presentations)
-  
-- *2021.07*, ULLA summer school, Uppsala universiy, Sweden. (Poster)
+- *2023.05*, Coarse-grained simulations: insight into supramolecular organization of polymer prodrugs and thermo-responsive polymers for drug encapsulation, GGMM2023, Toulouse, France. (Oral Presentations)
+- *2022.12*, Supramolecular organization of polymer prodrug nanoparticles revealed by coarse-grained simulations, SFnano2022 – Nanomedicine annual meeting, Strasbourg, France. (Oral Presentations)\\
 - *2022.10*, JED - Journée de l'Ecole Doctorale, Université Paris-Saclay, France. (Poster)
+- *2021.07*, ULLA summer school, Uppsala universiy, Sweden. (Poster)

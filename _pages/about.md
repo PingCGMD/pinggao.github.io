@@ -87,9 +87,11 @@ Ning Liu, **Ping Gao**, Hai-Yan Lu, Lei Fang, Julien Nicolas, Tâp Ha-Duong<sup>
 
 
 # 🎖 Honors and Awards
-- *2018.09* Best Poster Award at the 5th National Academic Conference on Atomic Spectroscopy and Related Techniques, Springer.
-- *2019.05* National Scholarship, China.
+- *2019.09* China Scholarship Council (CSC) scholarships.
 - *2019.06* Outstanding graduate, Huaqiao University.
+- *2019.05* National Scholarship, China.
+- *2018.09* Best Poster Award at the 5th National Academic Conference on Atomic Spectroscopy and Related Techniques, Springer.
+
 
 
 # 💻 Academic Communication

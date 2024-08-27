@@ -32,6 +32,10 @@ I have published around 7 papers <a href='https://scholar.google.com/citations?u
 - Molecular modeling and characterization of polymer prodrug self-assemblies.
 - MD simulation-assisted design of polymer prodrug nanocarriers.
 
+# 📖 Educations
+- *2019.09 - 2023.10*, PhD in Pharmacotechnie et biopharmacie, Faculté de Pharmacie, Université Paris-Saclay, Paris, France. 
+- *2016.09 - 2019.06*, Master's degree in Chemistry, College of Materials Science & Engineering, Huaqiao University, Xiamen, China.
+- *2012.09 - 2016.06*, Bachler’s degree in Material Chemistry, College of Chemistry and Materials, Hubei engineering college, Xiaogan, China.
 
 # 📝 Representative Publications 
 
@@ -87,16 +91,11 @@ Ning Liu, **Ping Gao**, Hai-Yan Lu, Lei Fang, Julien Nicolas, Tâp Ha-Duong<sup>
 - *2019.05* National Scholarship, China.
 - *2019.06* Outstanding graduate, Huaqiao University.
 
-# 📖 Educations
-- *2019.09 - 2023.10*, PhD in Pharmacotechnie et biopharmacie, Faculté de Pharmacie, Université Paris-Saclay, Paris, France. 
-- *2016.09 - 2019.06*, Master's degree in Chemistry, College of Materials Science & Engineering, Huaqiao University, Xiamen, China.
-- *2012.09 - 2016.06*, Bachler’s degree in Material Chemistry, College of Chemistry and Materials, Hubei engineering college, Xiaogan, China.
-
-# 💬 Oral Presentations
-- *2022.12*, Supramolecular organization of polymer prodrug nanoparticles revealed by coarse-grained simulations, SFnano2022 – Nanomedicine annual meeting, Strasbourg, France
-- *2023.05*, Coarse-grained simulations: insight into supramolecular organization of polymer prodrugs and thermo-responsive polymers for drug encapsulation, GGMM2023, Toulouse, France
-- *2024.05*, Coarse-grained simulation: insight into the supramolecular organisation of polymer nanoparticles for drug encapsulation, Zhejiang soft matter and complex systems symposium 2024, Hangzhou, China
 
 # 💻 Academic Communication
-- *2021.07*, ULLA summer school, Uppsala universiy, Sweden.
-- *2022.10*, JED - Journée de l'Ecole Doctorale, Université Paris-Saclay, France.
+- *2022.12*, Supramolecular organization of polymer prodrug nanoparticles revealed by coarse-grained simulations, SFnano2022 – Nanomedicine annual meeting, Strasbourg, France. (Oral Presentations)
+- *2023.05*, Coarse-grained simulations: insight into supramolecular organization of polymer prodrugs and thermo-responsive polymers for drug encapsulation, GGMM2023, Toulouse, France. (Oral Presentations)
+- *2024.05*, Coarse-grained simulation: insight into the supramolecular organisation of polymer nanoparticles for drug encapsulation, Zhejiang soft matter and complex systems symposium 2024, Hangzhou, China. (Oral Presentations)
+  
+- *2021.07*, ULLA summer school, Uppsala universiy, Sweden. (Poster)
+- *2022.10*, JED - Journée de l'Ecole Doctorale, Université Paris-Saclay, France. (Poster)

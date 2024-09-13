@@ -19,7 +19,7 @@ redirect_from:
 
 Welcome to my homepage!
 
-Future faculty at Fuzhou university | Ph.D at [Université Paris-Saclay, Faculté de Pharmacie](https://www.pharmacie.universite-paris-saclay.fr/).\\
+Future faculty at Fuzhou university (hard to say) | Ph.D at [Université Paris-Saclay, Faculté de Pharmacie](https://www.pharmacie.universite-paris-saclay.fr/).\\
 My research interest includes **Molecular dynamic simulations | Machine Learning | Drug-delivery system**\\
 I have published around 7 papers <a href='https://scholar.google.com/citations?user=9DGrp64AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://cdn.jsdelivr.net/gh/PingCGMD/PingCGMD.github.io@google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international journals.
 
@@ -97,6 +97,6 @@ Ning Liu, **Ping Gao**, Hai-Yan Lu, Lei Fang, Julien Nicolas, Tâp Ha-Duong<sup>
 # 💻 Academic Communication
 - *2024.05*, Coarse-grained simulation: insight into the supramolecular organisation of polymer nanoparticles for drug encapsulation, Zhejiang soft matter and complex systems symposium 2024, Hangzhou, China. (Oral Presentations)
 - *2023.05*, Coarse-grained simulations: insight into supramolecular organization of polymer prodrugs and thermo-responsive polymers for drug encapsulation, GGMM2023, Toulouse, France. (Oral Presentations)
-- *2022.12*, Supramolecular organization of polymer prodrug nanoparticles revealed by coarse-grained simulations, SFnano2022 – Nanomedicine annual meeting, Strasbourg, France. (Oral Presentations)\\
+- *2022.12*, Supramolecular organization of polymer prodrug nanoparticles revealed by coarse-grained simulations, SFnano2022 – Nanomedicine annual meeting, Strasbourg, France. (Oral Presentations)
 - *2022.10*, JED - Journée de l'Ecole Doctorale, Université Paris-Saclay, France. (Poster)
 - *2021.07*, ULLA summer school, Uppsala universiy, Sweden. (Poster)

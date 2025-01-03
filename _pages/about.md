@@ -19,12 +19,13 @@ redirect_from:
 
 Welcome to my homepage!
 
-Future faculty at Fuzhou university (hard to say) | Ph.D at [Université Paris-Saclay, Faculté de Pharmacie](https://www.pharmacie.universite-paris-saclay.fr/).\\
+Assistant Professor/Lecturer at Fuzhou university (happy to say) | Ph.D at [Université Paris-Saclay, Faculté de Pharmacie](https://www.pharmacie.universite-paris-saclay.fr/).\\
 My research interest includes **Molecular dynamic simulations | Machine Learning | Drug-delivery system**\\
 I have published around 7 papers <a href='https://scholar.google.com/citations?user=9DGrp64AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://cdn.jsdelivr.net/gh/PingCGMD/PingCGMD.github.io@google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international journals.
 
 
 # 🔥 News
+- *2024.10*: &nbsp; Joined Fuzhou University as Assistant Professor/Lecturer
 - *2024.08*: &nbsp;🎉🎉Delighted to be awarded the National Natural Science Foundation of China - Young Science Fund Project
 
 

@@ -25,6 +25,7 @@ I have published around 7 papers <a href='https://scholar.google.com/citations?u
 
 
 # 🔥 News
+- *2025.01*: &nbsp; Joined the journal Exploration as a Youth Editorial Board Member
 - *2024.10*: &nbsp; Joined Fuzhou University as Assistant Professor/Lecturer
 - *2024.08*: &nbsp;🎉🎉Delighted to be awarded the National Natural Science Foundation of China - Young Science Fund Project
 
